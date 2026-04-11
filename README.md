@@ -70,8 +70,8 @@ An interactive two-player console game demonstrating logic building and control 
 
 ##  Hobbies & Interests
 
--  Web Development & Portfolio Projects
--  Problem Solving & Coding Challenges
+-  Web Development and Portfolio Projects
+-  Problem Solving and Coding Challenges
 -  Learning New Technologies
 -  Exploring Software Trends
 
