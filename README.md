@@ -1,89 +1,76 @@
-<p align="center">
-  <img src="sana.jpg" alt="Sana Ramzan" width="160" style="border-radius: 50%;"/>
-</p>
-
 ---
-# Hi, I'm Sana Ramzan! 
-
-Welcome to my GitHub profile! I'm a passionate BCS student from Rawalpindi, Pakistan, who loves building projects and learning new technologies.
-
+layout: default
 ---
 
-##  Contact
+<img src="photo.jpg" alt="Sana Ramzan" style="border-radius: 50%; width: 150px;"/>
 
-| | |
-|---|---|
-| 📧 Email | usamaramzan943@gmail.com |
-| 📍 Location | Rawalpindi, Pakistan |
-| 🐙 GitHub | [SanaRamzan67](https://github.com/SanaRamzan67) |
-| 🌐 Portfolio | [sanaramzan67.github.io](https://sanaramzan67.github.io/-sana.github.io/) |
+## Sana Ramzan
+**BCS Major | Software Developer**
+
+Rawalpindi, Pakistan
+📧 usamaramzan943@gmail.com
+
+[View My GitHub](https://github.com/SanaRamzan67)
 
 ---
 
-## 🎓 Education
+## Technical Skills
 
-| Level | Field | Grade |
-|-------|-------|-------|
-| BCS | Computer Science | In Progress |
-| FSc | ICS | A Grade |
-| Matric | SSC | A+ Grade |
-
----
-
-##  Technical Skills
-
-**Programming Languages:**
-`C` `C++` `Java` `Python`
+**Programming Languages:** C, C++, Java, Python
 
 **Core Concepts:**
 - Data Structures (Stacks, Queues, Linked Lists)
-- Database Management System (DBMS) & SQL
+- Database Management System (DBMS & SQL)
 - Object-Oriented Programming (OOP)
 - GitHub & Version Control
 
-**Languages:**
-- English — Fluent
-- Urdu — Native
+**Languages:** English (Fluent), Urdu (Native)
 
 ---
 
-##  Projects
+## Education
 
+- **BCS — Computer Science** — In Progress
+- **FSc — ICS** — A Grade
+- **Matriculation (SSC)** — A+ Grade
 
-###  University Management System
-> **Tech:** DBMS / OOP
+---
+
+## Projects
+
+**Hospital Management System** *(DBMS / SQL)*
+
+A relational database-driven application for managing hospital records, patient registrations, and doctor appointments.
+
+---
+
+**University Management System** *(DBMS / OOP)*
 
 A comprehensive system to manage university operations including student enrollment, course management, and faculty records.
 
+---
 
+**Stack-Based Text Editor** *(C++ / Data Structures)*
 
-###  Stack-Based Text Editor
-> **Tech:** C++ / Data Structures
-
-A console-based text editor with undo/redo functionality using the Stack data structure.
-
-
-
-###  Tic-Tac-Toe Game
-> **Tech:** C++ / Fundamentals of Programming
-
-An interactive two-player console game demonstrating logic building and control flow.
+A console-based text editor featuring undo and redo operations implemented using the Stack data structure.
 
 ---
 
-##  Hobbies & Interests
+**Tic-Tac-Toe Game** *(C++ / Fundamentals of Programming)*
 
--  Web Development and Portfolio Projects
--  Problem Solving and Coding Challenges
--  Learning New Technologies
--  Exploring Software Trends
+An interactive two-player console game demonstrating control flow and fundamental programming constructs.
 
 ---
 
-##  Summary
+## Hobbies & Interests
 
-BCS student from Rawalpindi, Pakistan with hands-on experience in C, C++, Java, and Python. Skilled in database management, data structures, and object-oriented programming. Successfully completed projects including a University Management System, and a Stack-Based Text Editor. Fluent in English and Urdu. Passionate about software development and eager to apply academic knowledge to real-world challenges.
+- Web Development & Portfolio Projects
+- Problem Solving & Coding Challenges
+- Learning New Technologies
+- Exploring Software Trends
+---
+## Summary
+
+BCS student from Rawalpindi, Pakistan with hands-on experience in C, C++, Java, and Python. Skilled in database management, data structures, and object-oriented programming. Successfully completed projects including a Hospital Management System, University Management System, and a Stack-Based Text Editor. Fluent in English and Urdu. Passionate about software development and eager to apply academic knowledge to real-world challenges.
 
 ---
-
-*"Building my future one line of code at a time."* 
