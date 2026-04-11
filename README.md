@@ -1,16 +1,12 @@
-# Hi, I'm Sana Ramzan! 👋
+# Hi, I'm Sana Ramzan! 
+
+<img src="sana.jpg" alt="Sana Ramzan" width="150" align="right"/>
 
 Welcome to my GitHub profile! I'm a passionate BCS student from Rawalpindi, Pakistan, who loves building projects and learning new technologies.
 
 ---
 
-## 📝 Summary
-
-BCS student from Rawalpindi, Pakistan with hands-on experience in C, C++, Java, and Python. Skilled in database management, data structures, and object-oriented programming. Successfully completed projects including a Hospital Management System, University Management System, and a Stack-Based Text Editor. Fluent in English and Urdu. Passionate about software development and eager to apply academic knowledge to real-world challenges.
-
----
-
-## 📬 Contact
+##  Contact
 
 | | |
 |---|---|
@@ -31,7 +27,7 @@ BCS student from Rawalpindi, Pakistan with hands-on experience in C, C++, Java, 
 
 ---
 
-## 💻 Technical Skills
+##  Technical Skills
 
 **Programming Languages:**
 `C` `C++` `Java` `Python`
@@ -48,43 +44,43 @@ BCS student from Rawalpindi, Pakistan with hands-on experience in C, C++, Java, 
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🏥 Hospital Management System
-> **Tech:** DBMS / SQL
 
-A relational database-driven application for managing hospital records, patient registrations, and doctor appointments.
-
----
-
-### 🎓 University Management System
+###  University Management System
 > **Tech:** DBMS / OOP
 
 A comprehensive system to manage university operations including student enrollment, course management, and faculty records.
 
----
 
-### 📝 Stack-Based Text Editor
+
+###  Stack-Based Text Editor
 > **Tech:** C++ / Data Structures
 
 A console-based text editor with undo/redo functionality using the Stack data structure.
 
----
 
-### 🎮 Tic-Tac-Toe Game
+
+###  Tic-Tac-Toe Game
 > **Tech:** C++ / Fundamentals of Programming
 
 An interactive two-player console game demonstrating logic building and control flow.
 
 ---
 
-## 🎯 Hobbies & Interests
+##  Hobbies & Interests
 
-- 🌐 Web Development & Portfolio Projects
-- 🧩 Problem Solving & Coding Challenges
-- 📚 Learning New Technologies
-- 💡 Exploring Software Trends
+-  Web Development & Portfolio Projects
+-  Problem Solving & Coding Challenges
+-  Learning New Technologies
+-  Exploring Software Trends
 
 ---
 
-*"Building my future one line of code at a time."* 💡
+##  Summary
+
+BCS student from Rawalpindi, Pakistan with hands-on experience in C, C++, Java, and Python. Skilled in database management, data structures, and object-oriented programming. Successfully completed projects including a University Management System, and a Stack-Based Text Editor. Fluent in English and Urdu. Passionate about software development and eager to apply academic knowledge to real-world challenges.
+
+---
+
+*"Building my future one line of code at a time."* 
