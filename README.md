@@ -2,9 +2,6 @@
   <img src="sana.jpg" alt="Sana Ramzan" width="160" style="border-radius: 50%;"/>
 </p>
 
-<h1 align="center">Hi, I'm Sana Ramzan! 👋</h1>
-<p align="center">BCS Student &nbsp;•&nbsp; Rawalpindi, Pakistan</p>
-
 ---
 # Hi, I'm Sana Ramzan! 
 
