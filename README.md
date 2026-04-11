@@ -1,6 +1,4 @@
----
-layout: default
----
+
 ## Technical Skills
 
 **Programming Languages:** C, C++, Java, Python
