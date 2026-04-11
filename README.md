@@ -1,19 +1,6 @@
 ---
 layout: default
 ---
-
-<img src="photo.jpg" alt="Sana Ramzan" style="border-radius: 50%; width: 150px;"/>
-
-## Sana Ramzan
-**BCS Major | Software Developer**
-
-Rawalpindi, Pakistan
-📧 usamaramzan943@gmail.com
-
-[View My GitHub](https://github.com/SanaRamzan67)
-
----
-
 ## Technical Skills
 
 **Programming Languages:** C, C++, Java, Python
