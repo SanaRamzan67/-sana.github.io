@@ -1,7 +1,12 @@
-# Hi, I'm Sana Ramzan! 
+<p align="center">
+  <img src="sana.jpg" alt="Sana Ramzan" width="160" style="border-radius: 50%;"/>
+</p>
 
-<img src="<img width="1024" height="1536" alt="sana" src="https://github.com/user-attachments/assets/e55de0fb-9ad4-4fe7-ac53-89c8ce0c505a" />
-" alt="Sana Ramzan" width="150" align="right"/>
+<h1 align="center">Hi, I'm Sana Ramzan! 👋</h1>
+<p align="center">BCS Student &nbsp;•&nbsp; Rawalpindi, Pakistan</p>
+
+---
+# Hi, I'm Sana Ramzan! 
 
 Welcome to my GitHub profile! I'm a passionate BCS student from Rawalpindi, Pakistan, who loves building projects and learning new technologies.
 
