@@ -1,6 +1,12 @@
 theme: jekyll-theme-minimal
+
 title: Sana Ramzan
-description: BCS  | Software Developer
+description: Computer Science Major | Aspiring Software Developer
+
 show_downloads: false
-google_analytics:
+
+# Sidebar Profile Image
 avatar: photo.jpg
+
+# Optional (keep empty if not using)
+google_analytics:
