@@ -1,61 +1,57 @@
+---
+layout: default
+---
+
+## Summary
+
+Computer Science major with a strong foundation in programming, data structures, and database management. Proficient in C, C++, Java, and Python with hands-on experience developing academic and practical projects. Skilled in problem-solving, object-oriented programming, and software design principles. Demonstrates the ability to build efficient systems and data-driven applications. Passionate about software development and continuously learning modern technologies to solve real-world problems.
+
+---
 
 ## Technical Skills
 
-**Programming Languages:** C, C++, Java, Python
-
-**Core Concepts:**
-- Data Structures (Stacks, Queues, Linked Lists)
-- Database Management System (DBMS & SQL)
-- Object-Oriented Programming (OOP)
-- GitHub & Version Control
-
+**Programming:** C, C++, Java, Python  
+**Core Areas:** Data Structures, OOP, DBMS, SQL  
+**Tools:** GitHub, Version Control  
 **Languages:** English (Fluent), Urdu (Native)
 
 ---
 
 ## Education
 
-- **BCS — Computer Science** — In Progress
-- **FSc — ICS** — A Grade
-- **Matriculation (SSC)** — A+ Grade
+**Bachelor of Computer Science (BCS)** — In Progress  
+
+**FSc (ICS)** — A Grade  
+
+**Matriculation (SSC)** — A+ Grade  
 
 ---
 
 ## Projects
 
-**Hospital Management System** *(DBMS / SQL)*
-
-A relational database-driven application for managing hospital records, patient registrations, and doctor appointments.
-
----
-
-**University Management System** *(DBMS / OOP)*
-
-A comprehensive system to manage university operations including student enrollment, course management, and faculty records.
+### Hospital Management System *(DBMS / SQL)*
+Developed a database-driven system to manage patient records, doctor schedules, and appointments efficiently.
 
 ---
 
-**Stack-Based Text Editor** *(C++ / Data Structures)*
-
-A console-based text editor featuring undo and redo operations implemented using the Stack data structure.
+### University Management System *(DBMS / OOP)*
+Designed and implemented a system for handling student data, course registration, and faculty management.
 
 ---
 
-**Tic-Tac-Toe Game** *(C++ / Fundamentals of Programming)*
+### Stack-Based Text Editor *(C++ / Data Structures)*
+Built a console-based text editor with undo/redo functionality using stack data structures.
 
-An interactive two-player console game demonstrating control flow and fundamental programming constructs.
+---
+
+### Tic-Tac-Toe Game *(C++ / Programming Fundamentals)*
+Created an interactive two-player console game demonstrating logic building and control structures.
 
 ---
 
 ## Hobbies & Interests
 
-- Web Development & Portfolio Projects
-- Problem Solving & Coding Challenges
-- Learning New Technologies
-- Exploring Software Trends
----
-## Summary
-
-BCS student from Rawalpindi, Pakistan with hands-on experience in C, C++, Java, and Python. Skilled in database management, data structures, and object-oriented programming. Successfully completed projects including a Hospital Management System, University Management System, and a Stack-Based Text Editor. Fluent in English and Urdu. Passionate about software development and eager to apply academic knowledge to real-world challenges.
-
----
+- Software Development & Portfolio Building  
+- Problem Solving & Coding Challenges  
+- Learning New Technologies  
+- Exploring Modern Software Trends  
